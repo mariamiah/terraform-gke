@@ -1,0 +1,10 @@
+.terraform
+plan
+*.json
+.DS_Store
+.vscode/
+terraform-init
+terraform.tfstate
+terraform.tfstate.backup
+terraform/variables.tf
+account.json
